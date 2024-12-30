@@ -5,7 +5,11 @@ Reference for building website of Node.js and React.js
 
 https://www.linkedin.com/pulse/building-your-first-web-app-react-nodejs-coders-forum-4ic2c/
 
-This webpage needs to be run in localhost
+# **🚨 Important Setup Instructions 🚨**
+
+**This webpage needs to be run in localhost**
+
+**Please provide your IP address so that Mongo Atlas can whitelist the IP and allow connection to the database**
 
 Backend:
 <br>
